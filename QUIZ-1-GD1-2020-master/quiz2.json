@@ -1,0 +1,65 @@
+{
+    "quizID": "Bier",
+    "quizMetaData":
+    {
+        "title": "De bier quiz",
+        "imageURI": "https://c8.alamy.com/compde/t4pbf9/textur-von-bier-glas-und-wasser-tropfen-wallpaper-t4pbf9.jpg"
+
+    },
+    "quizContent":
+    [ 
+        {   "question": "Welke cafe heeft de meeste soorte bier?",
+            "answers": [{
+                    "answer": "Kulminator",
+                    "feedback": false
+                },
+                {
+                    "answer": "In de verzekering tegen de Grote Dorst",
+                    "feedback": false
+                },
+                {
+                    "answer": "Delirium",
+                    "feedback": true
+                }
+            ]
+        },
+        {   "question": "Wanneer is bier uitgevonden?",
+            "answers": [{
+                    "answer": "rond 1.000 voor Christus",
+                    "feedback": false
+                },
+                {
+                    "answer": "rond 500 na Christus",
+                    "feedback": false
+                },
+                {
+                    "answer": "rond 4.000 voor Christus",
+                    "feedback": true
+                },
+                {
+                    "answer": "staat er niet in",
+                    "feedback": false
+                }
+            ]
+        },
+        {   "question": "Wat is het meest gedronken bier ter wereld?",
+            "answers": [{
+                    "answer": "Snow",
+                    "feedback": true
+                },
+                {
+                    "answer": "Corona",
+                    "feedback": false
+                },
+                {
+                    "answer": "Heineken",
+                    "feedback": false
+                },
+                {
+                    "answer": "Budweiser",
+                    "feedback": false
+                }
+            ]
+        }
+    ]
+}
